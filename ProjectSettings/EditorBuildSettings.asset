@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/Controller.unity
+    guid: ebece6d11b76fae4e9402f25b345f48e
+  - enabled: 1
+    path: Assets/_Scenes/3D Conundrum at Crystal Cove.unity
+    guid: 4179a265db89fe34b8ab1ede6c9b098f
